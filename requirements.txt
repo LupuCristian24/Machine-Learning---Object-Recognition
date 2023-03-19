@@ -1,0 +1,17 @@
+1.Download Python 3.7.6 
+	https://www.python.org/downloads/release/python-376/
+
+2.Install 
+	tensorflow==2.5.0
+	keras==2.4.3
+	numpy==1.20.3
+	pillow==8.2.0
+	scipy==1.6.3
+	h5py==3.2.1
+	matplotlib==3.4.2
+	opencv-python
+	keras-resnet==0.2.0
+	imageai==2.1.6
+
+3.Download RetinaNet Pretrained model
+	https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
